@@ -2,10 +2,10 @@
 
 > ### Test Driven Development
 
-- [Python Unit Testing with Pytest and Mock](https://www.youtube.com/watch?v=DJoffYEPttY)
+- ~~[Python Unit Testing with Pytest and Mock](https://www.youtube.com/watch?v=DJoffYEPttY)~~
 - [Hillel Wayne - Beyond Unit Tests: Taking Your Testing to the Next Level - PyCon 2018](https://www.youtube.com/watch?v=MYucYon2-lk)
 - [Raphael Pierzina - Advanced pytest](https://www.youtube.com/watch?v=gJtE-anbcww)
-- [Introduction to Unit Testing in Python with Pytest - PyCon 2016](https://www.youtube.com/watch?v=UPanUFVFfzY)
+- ~~[Introduction to Unit Testing in Python with Pytest - PyCon 2016](https://www.youtube.com/watch?v=UPanUFVFfzY)~~
 - [Unit Testing with Requests](https://www.youtube.com/watch?v=t6MtEnw3Zww)
 
 > ### Decorator
