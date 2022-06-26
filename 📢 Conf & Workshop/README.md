@@ -34,17 +34,18 @@
 
 > ### Python Packing
 
-- [Python Packaging Demystified](https://www.youtube.com/watch?v=ApDThpsr2Fw)
-- [Dustin Ingram - Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE)
-- [David Beazley - Modules and Packages: Live and Let Die! - PyCon 2015](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+- [Python Packaging Demystified](https://www.youtube.com/watch?v=ApDThpsr2Fw) — 
+- [Inside the Cheeseshop: How Python Packaging Works](https://www.youtube.com/watch?v=AQsZsgJ30AE) — Dustin Ingram `PyCon 2018`
+- [Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0) — David Beazley `PyCon 2015`
 
-> ### Object-Oriented Design
+> ### Clean Architecture
 
-- [Clean Architectures in Python](https://www.youtube.com/watch?v=pKJ4FXijva0)
-- [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
-- [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU)
+- ~~[Clean Architectures in Python](https://www.youtube.com/watch?v=pKJ4FXijva0)~~ — Leonardo Giordani `PyCon Africa 2020` ❌
+  - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python) 
+- [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) — Brandon Rhodes `PyCon Ohio`
 - [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
-- [Clean Architecture Applications in Python](https://www.youtube.com/watch?v=p1D-jM4ca2w)
+- [Clean Architecture Applications in Python](https://www.youtube.com/watch?v=p1D-jM4ca2w) — Subhash Bhushan `PyCon India`
+- [Clean Architecture Concepts](https://www.youtube.com/watch?v=ouBSPdvbzvw) — Vivi Smiari
 
 > ### Miscellaneous
 
