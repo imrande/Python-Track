@@ -41,7 +41,7 @@
 > ### Clean Architecture
 
 - ~~[Clean Architectures in Python](https://www.youtube.com/watch?v=pKJ4FXijva0)~~ — Leonardo Giordani `PyCon Africa 2020` ❌
-  - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python) 
+  - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python) `book`
 - [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) — Brandon Rhodes `PyCon Ohio`
 - [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 - [Clean Architecture Applications in Python](https://www.youtube.com/watch?v=p1D-jM4ca2w) — Subhash Bhushan `PyCon India`
