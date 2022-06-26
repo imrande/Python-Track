@@ -45,7 +45,7 @@
 - [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) — Brandon Rhodes `PyCon Ohio`
 - [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 - [Clean Architecture Applications in Python](https://www.youtube.com/watch?v=p1D-jM4ca2w) — Subhash Bhushan `PyCon India`
-- [Clean Architecture Concepts](https://www.youtube.com/watch?v=ouBSPdvbzvw) — Vivian Smiari ❌
+- ~~[Clean Architecture Concepts](https://www.youtube.com/watch?v=ouBSPdvbzvw)~~ — Vivian Smiari ❌
 
 > ### Miscellaneous
 
